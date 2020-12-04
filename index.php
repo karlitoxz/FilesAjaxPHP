@@ -16,8 +16,6 @@
 	        <input type="file" name="filesP08[]" class="custom-file-input" multiple id="filesP08" accept="image/jpeg,application/pdf">
 	        <label class="custom-file-label" for="customFile">Seleccione sus soportes</label>
 	      </div>
-	    </div>
-	    <div class="col-md-5 my-1 border rounded overflow-auto" id="filesdesP08">
 	    </div> 
 	    <div class="col-md-4 my-1">
 	      <div class="input-group">

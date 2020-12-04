@@ -3,7 +3,7 @@ $(document).ready(function() {
 });
 
 
-	function p08opcion(){
+function p08opcion(){
 
 var data = new FormData();
 
